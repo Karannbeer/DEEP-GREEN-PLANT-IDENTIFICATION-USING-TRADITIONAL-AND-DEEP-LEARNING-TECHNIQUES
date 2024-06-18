@@ -22,3 +22,5 @@ In this project we have taken a dataset of different leaves of plants and traine
 # Presentation 
 Link: https://drive.google.com/file/d/1nJ9jdX2IPI9vrzn9QoAi1xjM2GpVRNwB/view?usp=drive_link
 
+# ScreemShots
+![Screenshot 2024-05-24 130000](https://github.com/Karannbeer/DEEP-GREEN-PLANT-IDENTIFICATION-USING-TRADITIONAL-AND-DEEP-LEARNING-TECHNIQUES/assets/136956467/26e84567-81fc-4747-a565-bb58d140c7fd)
