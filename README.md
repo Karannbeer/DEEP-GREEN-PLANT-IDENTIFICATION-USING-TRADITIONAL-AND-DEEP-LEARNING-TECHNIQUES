@@ -22,5 +22,3 @@ In this project we have taken a dataset of different leaves of plants and traine
 # Presentation 
 Link: https://drive.google.com/file/d/1nJ9jdX2IPI9vrzn9QoAi1xjM2GpVRNwB/view?usp=drive_link
 
-# Images
-![Alt text](Screenshots/Screenshot 2024-05-24 130000.png)
