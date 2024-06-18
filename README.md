@@ -13,7 +13,7 @@ In this project we have taken a dataset of different leaves of plants and traine
 # Technology Used:
     1. HTML5
     2. CSS
-    3. Flask 
+    3. FLASK 
     
     FrameWork Used: BOOTSTRAP
 
